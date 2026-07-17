@@ -1,9 +1,12 @@
-# 🌍 IA LIVE Institutional Knowledge System
+## 🌍 IA LIVE Institutional Knowledge System
 
 > **Digital Institutional Library of the IA LIVE Foundation**  
 > **IA LIVE Method for Autonomous Lifelong Learning**  
 > **Official Repository of the World Movement of the IA LIVE Method**
 
+🌐 **Idiomas**
+---
+**US ENGLISH**
 ---
 
 # IA LIVE FOUNDATION
@@ -351,9 +354,12 @@ Building the future of autonomous lifelong learning through Artificial Intellige
 
 © IA LIVE Foundation — All Rights Reserved.
 
+---
 
+🌐 **Idiomas**
 
-** ES Espanol **
+**ES - ESPANOL**
+
 ---
 
 # Sistema Institucional del Conocimiento IA LIVE
