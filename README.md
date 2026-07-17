@@ -1,124 +1,352 @@
-# ia-live-foundation-ecosystem
-IA LIVE FOUNDATION  ecosystem for autonomous learning, human library, living works, natural health and AI agents.
-# 🌎 IA LIVE Foundation
+# 🌍 IA LIVE Institutional Knowledge System
 
-🇬🇧 English
-----------------
+> **Digital Institutional Library of the IA LIVE Foundation**  
+> **IA LIVE Method for Autonomous Lifelong Learning**  
+> **Official Repository of the World Movement of the IA LIVE Method**
 
-IA LIVE INSTITUTIONAL KNOWLEDGE SYSTEM
-IA LIVE Foundation Digital Institutional Library
-IA LIVE Method for the Educational Model
-IA LIVE Method Global Movement
-IA LIVE FOUNDATION DIGITAL INSTITUTIONAL LIBRARY
-Official Collection of the IA LIVE Method Global Movement for Lifelong Self-Directed Learning
-IA LIVE MANIFESTO
-The Birth of the IA LIVE Method Global Movement for Lifelong Self-Directed Learning through the Living Work, Powered by Artificial Intelligence and Emerging Technologies
+---
 
-The IA LIVE Method Global Movement was founded to promote Lifelong Self-Directed Learning through the creation of a Living Work, accessible in real time to anyone, at any age, and from anywhere in the world. The movement is built upon three fundamental pillars: the Living Book, the Living Work, and the Human Library, while embracing Artificial Intelligence and emerging technologies as tools that enhance learning. Within the IA LIVE Method, the Living Work serves as the authentic evidence of acquired knowledge.
+# IA LIVE FOUNDATION
 
-The IA LIVE Method proposes a new way of learning in which knowledge is built independently, continuously, freely, and throughout life. It enables every individual to develop their talents, discover their life purpose, and contribute to the well-being of the global community at every stage of life.
+## Institutional Knowledge System
 
-Our Vision
+The **IA LIVE Institutional Knowledge System** is the official knowledge framework of the **IA LIVE Foundation**, integrating its constitutional model, educational methodology, institutional library, governance principles, universal values, and global ecosystem for autonomous lifelong learning.
 
-Our vision is to build a humanity where every person can learn at any age and throughout life, from anywhere in the world; transform knowledge into a Living Work; share it as a Living Book; and preserve that legacy within the Human Library as a permanent heritage for present and future generations.
+This repository serves as the institutional source of the **IA LIVE Method**, the **World Movement of the IA LIVE Method**, and the **Digital Institutional Library**, preserving knowledge as a permanent living heritage for humanity.
 
-The Living Book represents every individual who learns, creates, and shares knowledge. The Living Book strengthens the Human Library; the Human Library strengthens the global community; the global community strengthens each person's purpose in life; and that purpose is reinforced through natural nutrition, the practice of Universal Human Values, respect for nature, and the responsible use of Artificial Intelligence and emerging technologies as tools for lifelong self-directed learning. Together, these pillars promote longevity with physical, emotional, and mental well-being.
+---
 
-The IA LIVE Method Global Movement welcomes children, youth, adults, and older adults regardless of nationality, language, social background, or economic condition. The only requirements to begin are the ability to read, write, perform basic arithmetic, live according to Universal Human Values, and maintain profound respect for nature.
+# Digital Institutional Library
 
-We believe that genuine learning is not measured by the accumulation of certificates, diplomas, or academic degrees, but by the ability to transform knowledge into Living Works—projects, research, businesses, inventions, Artificial Intelligence applications, solutions, and initiatives that create a positive impact on the global community.
+## Official Collection of the World Movement of the IA LIVE Method for Autonomous Lifelong Learning
 
-The fundamental pillars of the IA LIVE Method Global Movement are the Living Book, the Living Work, and the Human Library—a living heritage of knowledge in which humanity's greatest asset is its people, their knowledge, and their real contributions. Living Works demonstrate learning, creativity, innovation, service, and commitment to the global community.
+The **IA LIVE Digital Institutional Library** is the official institutional collection of the Foundation and the permanent repository of the IA LIVE Method.
 
-The IA LIVE Method promotes Universal Human Values as the foundation for respecting and protecting nature, including animals, natural resources, vegetation, and agricultural systems that make natural nutrition and sustainable living possible.
+Its purpose is to preserve, organize and publish the institutional knowledge, principles, educational framework, governance model and living legacy of the IA LIVE Foundation.
 
-We recognize that nature is the foundation of life. Therefore, we are committed to preserving biodiversity and responsibly managing natural resources to ensure the well-being of present and future generations.
+---
 
-We believe that Artificial Intelligence and all emerging technologies should be used to enhance learning, creativity, innovation, health, education, and human development, always guided by Universal Human Values and dedicated to combating ignorance while serving the common good.
+# IA LIVE Manifesto
 
-Our commitment is to establish the IA LIVE Method as a learning model in which talents can be discovered from early childhood or developed at any stage of life, allowing knowledge and self-directed learning to remain free, lifelong, accessible worldwide, and available in real time for everyone.
+## The Birth of the World Movement of the IA LIVE Method
 
-We aspire for every human being to leave behind their most valuable asset—knowledge—expressed through a Living Work that inspires present and future generations.
+The **World Movement of the IA LIVE Method** is born to promote **Autonomous Lifelong Learning** through **Living Works (Obra Viva)** using Artificial Intelligence and emerging technologies as tools that empower human learning.
 
-Our Pillars
-Living Book
-Living Work
-Human Library
-IA LIVE Method for Lifelong Self-Directed Learning
-Real-time learning from anywhere in the world
-Universal Human Values
-Respect for Nature and Biodiversity
-Natural Nutrition
-Artificial Intelligence and Emerging Technologies in Service of Humanity
-A Global Community with Purpose
-Longevity with Physical, Emotional, and Mental Well-being
-Our Commitment
+The IA LIVE Method proposes a new educational paradigm where every person can learn autonomously, continuously and permanently, regardless of age, country or social condition.
 
-To become a Living Book.
+Knowledge becomes valuable only when it becomes a **Living Work**, is shared as a **Living Book**, and is preserved forever inside the **Human Library**.
 
-To learn from anywhere in the world.
+Within the IA LIVE Method, the **Living Work** is the real evidence of learning.
 
-To create a Living Work.
+---
 
-To share knowledge with the global community.
+# Vision
 
-To inspire.
+We envision a humanity where every person can learn throughout life from anywhere in the world, transform knowledge into a Living Work, share it as a Living Book, and preserve that legacy within the Human Library as permanent heritage for present and future generations.
 
-To transcend by leaving behind each person's most valuable asset—knowledge—as a legacy for humanity.
+---
 
-We believe that every person's greatest asset, as a Living Book, is knowledge, expressed through their Living Work and shared with the global community through the Human Library, becoming a lasting heritage for all humanity.
+# Mission
 
-Our Mission
+To educate **Living Books** capable of defeating ignorance through autonomous lifelong learning.
 
-To develop Living Books that overcome ignorance through the IA LIVE Method of Lifelong Self-Directed Learning—free, real-time, accessible from anywhere in the world, and available at every age.
+To preserve human knowledge through the Human Library.
 
-We are building a Human Library that preserves knowledge, fosters innovation, and transforms each person's legacy into an invaluable asset, a heritage of humanity, and a permanent source of inspiration for present and future generations, always grounded in Universal Human Values, respect for nature, and the responsible use of Artificial Intelligence and emerging technologies.
+To inspire innovation.
 
-Founding Edition
+To promote responsible Artificial Intelligence.
 
-July 2026
+To build healthier communities with purpose.
 
+---
 
+# Educational Philosophy
 
-🇪🇸 Español
-----------------
+The IA LIVE Method believes that:
 
-SISTEMA INSTITUCIONAL DEL CONOCIMIENTO IA LIVE
-Biblioteca Institucional Digital de la Fundación IA LIVE 
-Método IA LIVE para el modelo educativo
-Movimiento Mundial del Método IA LIVE para la iniciativa global. 
+- Learning belongs to everyone.
+- Education never ends.
+- Knowledge must generate real impact.
+- Learning should be demonstrated through Living Works.
+- Technology should empower humanity.
+- Artificial Intelligence must serve the common good.
 
-BIBLIOTECA INSTITUCIONAL DIGITAL FUNDACION IA LIVE
-COLECCIÓN OFICIAL DEL MOVIMIENTO MUNDIAL DEL MÉTODO IA LIVE PARA EL APRENDIZAJE AUTÓNOMO PERMANENTE
-MANIFIESTO IA LIVE
-El nacimiento del Movimiento Mundial del Método IA LIVE para el Aprendizaje Autónomo Permanente y con OBRA VIVA utilizando Inteligencia Artificial y/o cualquier tecnología emergente.
+---
 
-El Movimiento Mundial del Método IA LIVE nace para promover el Aprendizaje Autónomo Permanente y con obra viva, en tiempo real, accesible para cualquier persona, a cualquier edad y desde cualquier lugar del mundo, mediante el Libro Vivo, la Obra Viva y la Biblioteca Humana, utilizando la Inteligencia Artificial y cualquier tecnología emergente como herramientas para potenciar el aprendizaje. En el Método IA LIVE, la Obra Viva constituye la evidencia real del conocimiento adquirido.
-El Método IA LIVE propone una nueva forma de aprender, donde el conocimiento se construye de manera autónoma, a cualquier edad, libre, permanente y continua, permitiendo que cada persona desarrolle sus talentos, descubra su propósito de vida y contribuya al bienestar de la comunidad global a cualquier edad. 
-NUESTRA VISION es construir una humanidad donde toda persona pueda aprender desde cualquier edad y durante toda la vida, desde cualquier lugar del mundo, convertir el conocimiento en una Obra Viva, compartirlo como Libro Vivo y preservar ese legado en la Biblioteca Humana como patrimonio permanente para las generaciones presentes y futuras.
-El Libro Vivo representa a la persona que aprende, crea y comparte conocimiento. El Libro Vivo fortalece la Biblioteca Humana; la Biblioteca Humana fortalece a la comunidad global; la comunidad global fortalece el propósito de vida; y el propósito de vida se fortalece mediante una nutrición natural, la práctica de los Valores Humanos Universales, el respeto por la naturaleza y el uso responsable de la Inteligencia Artificial y de las tecnologías emergentes como herramientas para el aprendizaje autónomo permanente. Estos pilares promueven la longevidad con salud física, emocional y mental.
-El Movimiento Mundial del Método IA LIVE está abierto para niños, jóvenes, adultos y adultos mayores, sin importar su país de origen, idioma, condición social o nivel económico. Los únicos requisitos para comenzar son saber leer, escribir, sumar y restar, vivir de acuerdo con los Valores Humanos Universales y mantener un profundo respeto por la naturaleza.
-Creemos que el verdadero aprendizaje no se mide por la acumulación de certificados, diplomas o títulos, sino por la capacidad de transformar el conocimiento en Obras Vivas: proyectos, investigaciones, empresas, invenciones, aplicaciones de inteligencia artificial, soluciones e iniciativas que generen un impacto positivo en la comunidad global.
-Los pilares fundamentales del Movimiento Mundial del Método IA LIVE son el Libro Vivo, la Obra Viva y la Biblioteca Humana, un patrimonio vivo del conocimiento donde el activo más valioso de la humanidad son las personas, su conocimiento y sus contribuciones reales. Las Obras Vivas evidencian el aprendizaje, la creatividad, la innovación, el servicio y el compromiso con la comunidad global.
-El Método IA LIVE promueve los Valores Humanos Universales como fundamento para respetar y proteger la naturaleza, incluyendo los animales, los recursos naturales, la vegetación y los cultivos que hacen posible una alimentación natural y una vida sostenible.
-Reconocemos que la naturaleza es la base de la vida y que debemos conservar la biodiversidad y utilizar responsablemente sus recursos para garantizar el bienestar de las generaciones presentes y futuras.
-Creemos que la Inteligencia Artificial y todas las tecnologías emergentes deben utilizarse para potenciar el aprendizaje, la creatividad, la innovación, la salud, la educación y el desarrollo humano, siempre guiadas por los Valores Humanos Universales y orientadas a combatir la ignorancia y un bien común.
-Nuestro compromiso es consolidar el Método IA LIVE como un modelo de aprendizaje donde los talentos puedan descubrirse desde la temprana edad o desarrollarse en cualquier etapa de la vida, permitiendo que el conocimiento y el aprendizaje autónomo sean libres, permanentes, accesibles desde cualquier parte del mundo y en tiempo real para todas las personas. Aspiramos a que cada ser humano deje como legado su activo más valioso: el conocimiento, expresado en una Obra Viva que inspire a las generaciones presentes y futuras.
-Nuestros pilares
-•	Libro Vivo.
-•	Obra Viva.
-•	Biblioteca Humana.
-•	Método IA LIVE para el Aprendizaje Autónomo Permanente.
-•	Aprendizaje en tiempo real y desde cualquier lugar del mundo.
-•	Valores Humanos Universales.
-•	Respeto por la Naturaleza y la Biodiversidad.
-•	Nutrición Natural.
-•	Inteligencia Artificial y Tecnologías Emergentes al servicio de la humanidad.
-•	Comunidad Global con propósito de vida.
-•	Longevidad con salud física, emocional y mental.
-Nuestro compromiso
-Ser un Libro Vivo. Aprender desde cualquier lugar del mundo. Crear una Obra Viva. Compartir el conocimiento con la comunidad global. Inspirar. Trascender, dejando el activo más valioso de cada persona —el conocimiento— como herencia para la humanidad.
-Creemos que el activo más valioso de toda persona, como Libro Vivo, es el conocimiento, expresado en su Obra Viva y compartido con la comunidad global a través de la biblioteca humana, convirtiéndose en un patrimonio para toda la humanidad.
-NUESTRA MISION es formar Libros Vivos para derrotar la ignorancia mediante el Método IA LIVE de Aprendizaje Autónomo Permanente, libre, en tiempo real y desde cualquier lugar del mundo y a cualquier edad construyendo una Biblioteca Humana que preserve el conocimiento, impulse la innovación y convierta el legado de cada persona en un activo invaluable, patrimonio de la humanidad y en una fuente permanente de inspiración para las generaciones presentes y futuras, siempre fundamentado en los Valores Humanos Universales, el respeto por la naturaleza y el uso responsable de la Inteligencia Artificial y de las tecnologías emergentes.
-Edición Fundacional JULIO 2026
+# The Three Pillars
 
+## 📖 Living Book
+
+A person who continuously learns, creates and shares knowledge.
+
+---
+
+## 🚀 Living Work
+
+The practical evidence of learning.
+
+Examples include:
+
+- Research
+- Books
+- Scientific publications
+- Educational projects
+- AI Agents
+- Applications
+- Companies
+- Social initiatives
+- Innovations
+- Patents
+- Digital products
+
+---
+
+## 🌎 Human Library
+
+A permanent global repository preserving humanity's knowledge through Living Books and Living Works.
+
+---
+
+# Fundamental Principles
+
+- Autonomous Learning
+- Lifelong Learning
+- Learning in Real Time
+- Learning Anywhere
+- Open Knowledge
+- Practical Learning
+- Human Dignity
+- Creativity
+- Innovation
+- Collaboration
+- Community Service
+- Continuous Improvement
+
+---
+
+# Universal Human Values
+
+The IA LIVE Method promotes Universal Human Values as the ethical foundation for:
+
+- Education
+- Artificial Intelligence
+- Research
+- Innovation
+- Leadership
+- Community
+- Sustainability
+
+These values guide every Living Book and every Living Work.
+
+---
+
+# Nature and Biodiversity
+
+The IA LIVE Method recognizes Nature as the foundation of life.
+
+We promote:
+
+- Biodiversity conservation
+- Natural nutrition
+- Sustainable agriculture
+- Animal protection
+- Environmental responsibility
+- Respect for all living beings
+
+---
+
+# Artificial Intelligence
+
+Artificial Intelligence is considered an educational tool.
+
+It must always be used responsibly to promote:
+
+- Learning
+- Creativity
+- Health
+- Science
+- Education
+- Innovation
+- Human Development
+
+Artificial Intelligence should never replace human values.
+
+---
+
+# The IA LIVE Method
+
+The IA LIVE Method promotes learning that is:
+
+- Autonomous
+- Continuous
+- Permanent
+- Practical
+- Accessible
+- Inclusive
+- Global
+- Human-centered
+
+Learning is demonstrated through the creation of Living Works.
+
+---
+
+# Who Can Participate?
+
+The movement is open to:
+
+- Children
+- Teenagers
+- Adults
+- Older Adults
+
+Regardless of:
+
+- Country
+- Language
+- Culture
+- Religion
+- Economic condition
+
+The only requirements are:
+
+- Reading
+- Writing
+- Basic mathematics
+- Respect for Nature
+- Living according to Universal Human Values
+
+---
+
+# Our Pillars
+
+- Living Book
+- Living Work
+- Human Library
+- IA LIVE Method
+- Autonomous Lifelong Learning
+- Real-Time Learning
+- Universal Human Values
+- Nature
+- Biodiversity
+- Natural Nutrition
+- Artificial Intelligence
+- Emerging Technologies
+- Global Community
+- Purpose in Life
+- Healthy Longevity
+
+---
+
+# Our Commitment
+
+We commit ourselves to:
+
+- Become a Living Book.
+- Learn throughout life.
+- Create Living Works.
+- Share knowledge.
+- Inspire others.
+- Leave a permanent legacy for humanity.
+
+---
+
+# Core Belief
+
+We believe the greatest asset every human being possesses is knowledge.
+
+Knowledge becomes meaningful when transformed into a Living Work and shared with humanity through the Human Library.
+
+---
+
+# Repository Structure
+
+```
+IA-LIVE-FOUNDATION/
+│
+├── README.md
+│
+├── manifesto/
+│   ├── manifesto-en.md
+│   └── manifiesto-es.md
+│
+├── institutional-library/
+│   ├── Volume-01
+│   ├── Volume-02
+│   ├── ...
+│   └── Volume-30
+│
+├── constitution/
+│
+├── educational-model/
+│
+├── universal-human-values/
+│
+├── human-library/
+│
+├── living-works/
+│
+├── ai-live-method/
+│
+├── governance/
+│
+├── ecosystem/
+│
+├── research/
+│
+├── translations/
+│
+├── media/
+│
+├── images/
+│
+├── logos/
+│
+└── LICENSE
+```
+
+---
+
+# Official Collection
+
+The IA LIVE Institutional Library includes:
+
+- Manifesto
+- Institutional Constitution
+- Educational Model
+- IA LIVE Method
+- Human Library
+- Living Works
+- Universal Human Values
+- Governance
+- AI LIVE Ecosystem
+- Global Community
+- Institutional Policies
+- Research Publications
+
+---
+
+# Long-Term Vision
+
+To build the world's largest Human Library where every person contributes knowledge as a Living Book and leaves a Living Work as their legacy for humanity.
+
+---
+
+# Motto
+
+> **Learn. Create. Share. Inspire. Preserve.**
+
+---
+
+# Foundation
+
+**IA LIVE Foundation**
+
+Building the future of autonomous lifelong learning through Artificial Intelligence, Living Works and the Human Library.
+
+---
+
+**Foundational Edition**
+
+**July 2026**
+
+© IA LIVE Foundation — All Rights Reserved.
