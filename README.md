@@ -350,3 +350,345 @@ Building the future of autonomous lifelong learning through Artificial Intellige
 **July 2026**
 
 © IA LIVE Foundation — All Rights Reserved.
+
+
+
+** ES Espanol **
+---
+
+# Sistema Institucional del Conocimiento IA LIVE
+
+> **Repositorio Oficial de la Biblioteca Digital Institucional de la Fundación IA LIVE**
+
+## Construyendo un Movimiento Mundial para el Aprendizaje Autónomo Permanente
+
+El **Sistema Institucional del Conocimiento IA LIVE** constituye el marco oficial de conocimiento de la **Fundación IA LIVE**. Integra el **Método IA LIVE**, la **Biblioteca Digital Institucional**, la **Biblioteca Humana** y la **Inteligencia Artificial** en un ecosistema educativo orientado al aprendizaje autónomo permanente.
+
+Este repositorio forma parte de la **Colección Oficial del Movimiento Mundial del Método IA LIVE para el Aprendizaje Autónomo Permanente**.
+
+---
+
+# Biblioteca Digital Institucional Fundación IA LIVE
+
+La **Biblioteca Digital Institucional de la Fundación IA LIVE** es el repositorio oficial encargado de preservar, organizar, publicar y difundir el conocimiento generado por el Movimiento Mundial del Método IA LIVE.
+
+Su propósito es ofrecer recursos educativos, científicos y tecnológicos de acceso abierto para personas, instituciones y agentes conversacionales de Inteligencia Artificial.
+
+---
+
+# Colecciones Digitales
+
+La Biblioteca Digital Institucional integra las siguientes colecciones:
+
+- 📚 eBooks
+- 🎧 Audiolibros
+- 🎥 Videolibros
+- 📄 Documentos PDF
+- 📝 Archivos TXT
+- 📂 Archivos JSON
+- 🌐 Documentos HTML
+- 📑 Documentos XML
+- 📘 Archivos Markdown
+- 🖼 Imágenes
+- 📊 Infografías
+- 🎙 Podcasts
+- 🎬 Videos Educativos
+- 💻 Software
+- 🤖 Modelos de Inteligencia Artificial
+- 📦 Repositorios GitHub
+- 📈 Conjuntos de Datos (Datasets)
+- 🔬 Artículos Científicos
+- 📚 Recursos Educativos Abiertos
+- 🧠 Bases de Conocimiento
+- 🌐 Grafos de Conocimiento
+
+---
+
+# Manifiesto IA LIVE
+
+## El nacimiento del Movimiento Mundial del Método IA LIVE para el Aprendizaje Autónomo Permanente
+
+El **Movimiento Mundial del Método IA LIVE** nace para promover el **Aprendizaje Autónomo Permanente** mediante la creación de una **Obra Viva**, accesible en tiempo real para cualquier persona, a cualquier edad y desde cualquier lugar del mundo.
+
+El movimiento se fundamenta en tres pilares esenciales:
+
+- 📖 Libro Vivo
+- 🏗 Obra Viva
+- 🌍 Biblioteca Humana
+
+La Inteligencia Artificial y las tecnologías emergentes son utilizadas como herramientas para potenciar el aprendizaje, la creatividad, la investigación y la innovación.
+
+En el Método IA LIVE, la **Obra Viva** constituye la evidencia auténtica del conocimiento adquirido.
+
+---
+
+# Filosofía Educativa
+
+El Método IA LIVE propone un nuevo paradigma educativo donde el aprendizaje es:
+
+- Autónomo
+- Permanente
+- Libre
+- Continuo
+- Basado en proyectos
+- Centrado en la comunidad
+- Potenciado por Inteligencia Artificial
+
+Cada persona transforma el conocimiento en contribuciones reales para el bienestar de la humanidad.
+
+---
+
+# Nuestra Visión
+
+Construir una humanidad donde toda persona pueda:
+
+- Aprender desde cualquier edad.
+- Aprender durante toda la vida.
+- Aprender desde cualquier lugar del mundo.
+- Transformar el conocimiento en una Obra Viva.
+- Compartirlo como Libro Vivo.
+- Preservarlo en la Biblioteca Humana.
+
+La Biblioteca Humana constituye un patrimonio permanente para las generaciones presentes y futuras.
+
+---
+
+# Libro Vivo
+
+El **Libro Vivo** representa a toda persona que aprende continuamente, crea conocimiento y comparte su experiencia.
+
+El Libro Vivo fortalece la Biblioteca Humana.
+
+La Biblioteca Humana fortalece la comunidad global.
+
+La comunidad fortalece el propósito de vida.
+
+El propósito de vida se fortalece mediante:
+
+- 🥗 Nutrición Natural
+- ❤️ Valores Humanos Universales
+- 🌿 Respeto por la Naturaleza
+- 🤖 Uso Responsable de la Inteligencia Artificial
+- 🚀 Tecnologías Emergentes
+
+Estos pilares favorecen:
+
+- Salud Física
+- Salud Emocional
+- Salud Mental
+- Longevidad Saludable
+
+---
+
+# ¿Quiénes pueden participar?
+
+El Método IA LIVE está abierto para:
+
+- Niños
+- Jóvenes
+- Adultos
+- Adultos Mayores
+
+Sin importar:
+
+- País
+- Idioma
+- Condición Social
+- Nivel Económico
+
+Los únicos requisitos son:
+
+- Saber leer.
+- Saber escribir.
+- Saber sumar.
+- Saber restar.
+- Vivir de acuerdo con los Valores Humanos Universales.
+- Respetar profundamente la naturaleza.
+
+---
+
+# Obra Viva
+
+El aprendizaje se demuestra mediante una **Obra Viva**.
+
+Una Obra Viva puede ser:
+
+- Investigación
+- Software
+- Aplicaciones de Inteligencia Artificial
+- Empresas
+- Emprendimientos
+- Libros
+- Cursos
+- Descubrimientos científicos
+- Invenciones
+- Proyectos educativos
+- Soluciones para la comunidad
+
+Las Obras Vivas constituyen evidencia de:
+
+- Aprendizaje
+- Creatividad
+- Innovación
+- Servicio
+- Liderazgo
+
+---
+
+# Biblioteca Humana
+
+La **Biblioteca Humana** es el ecosistema vivo del conocimiento del Movimiento Mundial IA LIVE.
+
+Está conformada por:
+
+- 📖 Libros Vivos
+- 🏗 Obras Vivas
+- 🤖 Bibliotecarios Virtuales IA Conversacionales
+
+Su mayor patrimonio son las personas, su conocimiento y sus contribuciones reales a la humanidad.
+
+---
+
+# Bibliotecarios Virtuales IA Conversacionales
+
+Los Bibliotecarios Virtuales IA son agentes conversacionales especializados que ayudan a:
+
+- Organizar el conocimiento.
+- Guiar el aprendizaje autónomo.
+- Recomendar recursos personalizados.
+- Explicar conceptos.
+- Conectar Libros Vivos.
+- Facilitar la creación de Obras Vivas.
+- Preservar el conocimiento.
+- Apoyar la investigación científica.
+
+---
+
+# Inteligencia Artificial
+
+La Inteligencia Artificial actúa como:
+
+- Tutor Personal
+- Bibliotecario Digital
+- Curador del Conocimiento
+- Asistente de Investigación
+- Mentor Educativo
+- Compañero de Aprendizaje
+
+Siempre guiada por:
+
+- Valores Humanos Universales
+- Dignidad Humana
+- Innovación Responsable
+- Respeto por la Naturaleza
+- Servicio a la Humanidad
+
+---
+
+# Respeto por la Naturaleza
+
+El Método IA LIVE promueve el respeto y la protección de:
+
+- 🐾 Animales
+- 🌿 Biodiversidad
+- 💧 Agua
+- 🌳 Bosques
+- 🌱 Vegetación
+- 🌾 Cultivos
+- 🌎 Recursos Naturales
+
+Reconocemos que la naturaleza constituye la base de la vida.
+
+---
+
+# Nuestros Pilares
+
+- 📖 Libro Vivo
+- 🏗 Obra Viva
+- 🌍 Biblioteca Humana
+- 🎓 Método IA LIVE para el Aprendizaje Autónomo Permanente
+- 🌎 Aprendizaje en Tiempo Real desde cualquier lugar del mundo
+- ❤️ Valores Humanos Universales
+- 🌱 Respeto por la Naturaleza y la Biodiversidad
+- 🥗 Nutrición Natural
+- 🤖 Inteligencia Artificial y Tecnologías Emergentes al servicio de la humanidad
+- 🌍 Comunidad Global con Propósito de Vida
+- ❤️ Longevidad con Salud Física, Emocional y Mental
+
+---
+
+# Nuestro Compromiso
+
+Cada integrante del Movimiento IA LIVE se compromete a:
+
+- Ser un Libro Vivo.
+- Aprender durante toda la vida.
+- Crear una Obra Viva.
+- Compartir conocimiento con la comunidad global.
+- Inspirar a otras personas.
+- Dejar un legado permanente para la humanidad.
+
+Creemos que el conocimiento constituye el activo más valioso de toda persona.
+
+---
+
+# Nuestra Misión
+
+Formar **Libros Vivos** capaces de derrotar la ignorancia mediante el **Método IA LIVE para el Aprendizaje Autónomo Permanente**, libre, accesible, en tiempo real y desde cualquier lugar del mundo.
+
+Construimos una **Biblioteca Humana** que preserve el conocimiento, impulse la innovación y convierta el legado de cada persona en un patrimonio invaluable para la humanidad, siempre fundamentado en los Valores Humanos Universales, el respeto por la naturaleza y el uso responsable de la Inteligencia Artificial y las tecnologías emergentes.
+
+---
+
+# Arquitectura del Sistema Institucional del Conocimiento IA LIVE
+
+```text
+Movimiento Mundial IA LIVE
+│
+├── Fundación IA LIVE
+│
+├── Sistema Institucional del Conocimiento IA LIVE
+│
+├── Biblioteca Digital Institucional
+│   ├── eBooks
+│   ├── Audiolibros
+│   ├── Videolibros
+│   ├── PDF
+│   ├── TXT
+│   ├── JSON
+│   ├── Software
+│   ├── Artículos Científicos
+│   ├── Datasets
+│   └── Recursos Educativos Abiertos
+│
+├── Biblioteca Humana
+│   ├── Libros Vivos
+│   ├── Obras Vivas
+│   └── Bibliotecarios Virtuales IA Conversacionales
+│
+└── Método IA LIVE
+    ├── Aprendizaje Autónomo Permanente
+    ├── Inteligencia Artificial
+    ├── Valores Humanos Universales
+    ├── Respeto por la Naturaleza
+    ├── Nutrición Natural
+    └── Comunidad Global
+```
+
+---
+
+# Palabras Clave
+
+Inteligencia Artificial • Aprendizaje Autónomo • Aprendizaje Permanente • Libro Vivo • Obra Viva • Biblioteca Humana • Biblioteca Digital • Bibliotecario IA • Agentes Conversacionales • Educación Abierta • Innovación Educativa • Gestión del Conocimiento • Grafos de Conocimiento • Recursos Educativos Abiertos • Programación • Algoritmos • Ciencia • Tecnología • GitHub • Open Source • Investigación • Educación para Toda la Vida • Valores Humanos • Naturaleza • Biodiversidad • Nutrición Natural
+
+---
+
+# Licencia
+
+Este repositorio forma parte de la **Biblioteca Digital Institucional de la Fundación IA LIVE** y de la **Colección Oficial del Movimiento Mundial del Método IA LIVE para el Aprendizaje Autónomo Permanente**.
+
+---
+
+## Edición Fundacional
+
+**Julio de 2026**
