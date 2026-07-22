@@ -363,21 +363,21 @@ Building the future of autonomous lifelong learning through Artificial Intellige
 
 ---
 
-# **IA LIVE Sistema Gloval de Apendizaje Autonomo & Gestion del Coocimiento en una Obra Viva**  
+# **IA LIVE Sistema Global de Apendizaje Autonomo & Gestion del Coocimiento en una Obra Viva**  
 
 > **Repositorio Oficial de la Biblioteca Digital Institucional de la Fundación IA LIVE**
 
 ## Construyendo un Movimiento Mundial para el Aprendizaje Autónomo Permanente
 
-El **IA LIVE Sistema Gloval de Apendizaje Autonomo & Gestion del Coocimiento en una Obra Viva**  ** constituye el marco oficial de conocimiento de la **Fundación IA LIVE**. Integra el **Método IA LIVE**, la **Biblioteca Digital Institucional**, la **Biblioteca Humana** y la **Inteligencia Artificial** en un ecosistema educativo orientado al aprendizaje autónomo permanente.
+El **IA LIVE Sistema Global de Aprendizaje Autónomo y Gestion del Conocimiento en una Obra Viva**  ** constituye el marco oficial de conocimiento de la **Fundación IA LIVE**. Integra el **Método IA LIVE**, la **Biblioteca Digital Institucional**, la **Biblioteca Humana** y la **Inteligencia Artificial** en un ecosistema educativo orientado al aprendizaje autónomo permanente.
 
-Este repositorio forma parte de la **Colección Oficial del Movimiento Mundial del Método IA LIVE para el Aprendizaje Autónomo Permanente**.
+Este repositorio forma parte de la **IA LIVE Sistema Global de Aprendizaje Autónomo y Gestion del Conocimiento en una Obra Viva**.
 
 ---
 
-# IA LIVE Sistema Gloval de Apendizaje Autonomo & Gestion del Coocimiento en una Obra Viva
+# IA LIVE Sistema Global de Aprendizaje Autónomo y Gestion del Conocimiento en una Obra Viva
 
-La **IA LIVE Sistema Gloval de Apendizaje Autonomo & Gestion del Coocimiento en una Obra Viva**   es el repositorio oficial encargado de preservar, organizar, publicar y difundir el conocimiento generado por el Movimiento Mundial del Método IA LIVE.
+La **IA LIVE Sistema Global de Aprendizaje Autónomo y Gestion del Conocimiento en una Obra Viva**   es el repositorio oficial encargado de preservar, organizar, publicar y difundir el conocimiento generado por el Movimiento Mundial del Método IA LIVE.
 
 Su propósito es ofrecer recursos educativos, científicos y tecnológicos de acceso abierto para personas, instituciones y agentes conversacionales de Inteligencia Artificial.
 
@@ -413,9 +413,9 @@ La Biblioteca Digital Institucional integra las siguientes colecciones:
 
 # Manifiesto IA LIVE
 
-## El nacimiento del Movimiento Mundial del Método IA LIVE para el Aprendizaje Autónomo Permanente
+## El nacimiento de IA LIVE Sistema Global de Aprendizaje Autónomo y Gestion del Conocimiento en una Obra Viva
 
-El **Sistema Mundial del Método IA LIVE** nace para promover el **Aprendizaje Autónomo Permanente** mediante la creación de una **Obra Viva**, accesible en tiempo real para cualquier persona, a cualquier edad y desde cualquier lugar del mundo.
+El **IA LIVE Sistema Global de Aprendizaje Autónomo y Gestion del Conocimiento en una Obra Viva**, accesible en tiempo real para cualquier persona, a cualquier edad y desde cualquier lugar del mundo.
 El movimiento se fundamenta en tres pilares esenciales:
 
 - 📖 Libro Vivo
@@ -691,7 +691,7 @@ Inteligencia Artificial • Aprendizaje Autónomo • Aprendizaje Permanente •
 
 # Licencia
 
-Este repositorio forma parte de la **IA LIVE Sistema Gloval de Apendizaje Autonomo & Gestion del Coocimiento en una Obra Viva** y de la **IA LIVE Sistema Gloval de Apendizaje Autonomo & Gestion del Coocimiento en una Obra Viva**.
+Este repositorio forma parte de la **IA LIVE Sistema Global de Aprendizaje Autónomo y Gestion del Conocimiento en una Obra Viva** y de la **IA LIVE Sistema Global de Aprendizaje Autónomo y Gestion del Conocimiento en una Obra Viva**.
 
 ---
 
